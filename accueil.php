@@ -9,6 +9,6 @@
     <script src="main.js"></script>
 </head>
 <body>
-    <a href="bonjour.php?nom=SOW&amp;prenom=SAADBOUH&amp;repeter=1"> <h2>Bonjour</h2></a>
+    <a href="bonjour.php?nom=SOW&amp;prenom=SAADBOUH&amp;repeter=1"> <h2>Bonjour Mr ça va ? </h2></a>
 </body>
 </html>
